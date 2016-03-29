@@ -5,7 +5,7 @@ ruby '2.3.0'
 
 gem 'rails', '#{Rails.version}'
 gem 'puma'
-gem 'pg'
+gem 'mysql2'
 gem 'figaro'
 gem 'jbuilder', '~> 2.0'
 gem 'redis'
